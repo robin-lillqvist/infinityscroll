@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+To run this code you need to first run https://github.com/robin-lillqvist/infinityscroll-api
+
 First, run the development server:
 
 ```bash
